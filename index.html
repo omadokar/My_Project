@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+            margin-top: 10px;
+            display: inline-block;
+        }
+
+        input[type="text"],
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            input[type="text"],
+            input[type="number"],
+            input[type="submit"] {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Career Prediction Form</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="grade">Grade:</label>
+                <input type="number" id="grade" name="grade" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="favorite_subjects">Favorite Subjects (comma separated):</label>
+                <input type="text" id="favorite_subjects" name="favorite_subjects" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="hobbies">Hobbies (comma separated):</label>
+                <input type="text" id="hobbies" name="hobbies" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="preferred_work_environment">Preferred Work Environment:</label>
+                <input type="text" id="preferred_work_environment" name="preferred_work_environment" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="strengths">Strengths (comma separated):</label>
+                <input type="text" id="strengths" name="strengths" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="weaknesses">Weaknesses (comma separated):</label>
+                <input type="text" id="weaknesses" name="weaknesses" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="aptitude_test_scores">Aptitude Test Scores (comma separated):</label>
+                <input type="text" id="aptitude_test_scores" name="aptitude_test_scores" required>
+            </div>
+            
+            <input type="submit" value="Predict Career">
+        </form>
+    </div>
+</body>
+</html>
