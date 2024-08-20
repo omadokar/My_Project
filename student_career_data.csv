@@ -1,0 +1,84 @@
+username,age,grade,favorite_subjects,hobbies,preferred_work_environment,strengths,weaknesses,aptitude_test_scores,career_interests
+student_1,17,12,Math;Computer Science,Reading;Gaming,Outdoor,Logical thinking;Programming,Public speaking,85;90;80,Engineering
+student_2,18,12,Biology;Chemistry,Reading;Drawing,Indoor,Attention to detail;Analytical skills,Time management,88;92;85,Pharmacy
+student_3,17,12,Biology;Chemistry,Writing;Reading,Indoor,Empathy;Critical thinking,Public speaking,70;65;68,MBBS
+student_4,17,12,History;English,Writing;Reading;Art,Outdoor,Creativity;Writing,Math,72;78;80,Humanities
+student_5,17,12,Math;Biology,Reading;Swimming,Indoor,Analytical skills;Problem-solving,Public speaking,70;75;72,Pharmacy
+student_6,18,12,Physics;Math,Reading;Programming,Indoor,Logical thinking;Problem-solving,Communication,88;92;89,Engineering
+student_7,18,12,Biology;English,Drawing;Volunteering,Outdoor,Empathy;Communication,Math,85;80;90,MBBS
+student_8,17,12,Chemistry;Biology,Reading;Gardening,Indoor,Analytical skills;Attention to detail,Public speaking,72;75;77,Pharmacy
+student_9,17,12,Biology;Physics,Reading;Drawing,Indoor,Empathy;Attention to detail,Math,67;65;70,MBBS
+student_11,18,12,Art;Design,Painting;Sculpting,Indoor,Creativity;Design thinking,Data analysis,90;85;95,Graphic Designer
+student_12,17,12,Computer Science;Math,Video games;Robotics,Indoor,Programming;Logical thinking,Writing,95;88;92,Software Developer
+student_13,18,12,Math;Computer Science,Reading;Coding,Indoor,Logical thinking;Problem-solving,Time management,87;85;90,Software Developer
+student_14,18,12,Biology;Chemistry,Volunteering;Reading,Outdoor,Empathy;Attention to detail,Public speaking,78;80;82,MBBS
+student_15,17,12,Math;Physics,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,92;88;90,Engineering
+student_17,17,12,Biology;Chemistry,Gardening;Photography,Outdoor,Attention to detail;Critical thinking,Time management,74;70;72,Pharmacy
+student_18,18,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Programming,Public speaking,89;91;88,Software Developer
+student_19,17,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Time management,85;87;90,Engineering
+student_21,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,88;85;87,Graphic Designer
+student_22,18,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Attention to detail,Math,73;75;78,MBBS
+student_23,17,12,Math;Computer Science,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,92;94;90,Software Developer
+student_24,18,12,Biology;Chemistry,Reading;Swimming,Outdoor,Empathy;Critical thinking,Time management,80;78;82,Pharmacy
+student_26,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,85;88;90,Graphic Designer
+student_27,17,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,90;92;88,Engineering
+student_28,18,12,Biology;Chemistry,Gardening;Reading,Outdoor,Attention to detail;Analytical skills,Time management,78;80;82,Pharmacy
+student_30,18,12,Math;Computer Science,Reading;Programming,Indoor,Logical thinking;Problem-solving,Public speaking,88;90;92,Software Developer
+student_31,17,12,Biology;Chemistry,Swimming;Volunteering,Outdoor,Empathy;Attention to detail,Time management,79;81;83,MBBS
+student_32,18,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,85;88;90,Engineering
+student_33,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,87;89;91,Graphic Designer
+student_35,17,12,Biology;Physics,Reading;Gardening,Outdoor,Attention to detail;Analytical skills,Time management,74;76;78,MBBS
+student_36,18,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,92;94;96,Software Developer
+student_37,17,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Critical thinking,Time management,78;80;82,Pharmacy
+student_38,18,12,Physics;Math,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,88;90;92,Engineering
+student_40,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,90;92;94,Graphic Designer
+student_41,17,12,Math;Computer Science,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,92;94;96,Software Developer
+student_42,18,12,Biology;Chemistry,Reading;Swimming,Outdoor,Empathy;Attention to detail,Time management,81;83;85,Pharmacy
+student_44,18,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,90;92;94,Engineering
+student_45,17,12,Biology;Chemistry,Swimming;Volunteering,Outdoor,Empathy;Critical thinking,Time management,79;81;83,MBBS
+student_46,18,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,86;88;90,Engineering
+student_47,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,87;89;91,Graphic Designer
+student_49,17,12,Biology;Physics,Reading;Gardening,Outdoor,Attention to detail;Analytical skills,Time management,75;77;79,MBBS
+student_50,18,12,Math;Computer Science,Reading;Programming,Indoor,Logical thinking;Problem-solving,Public speaking,89;91;93,Software Developer
+student_51,17,12,Biology;Chemistry,Gardening;Photography,Outdoor,Attention to detail;Critical thinking,Time management,75;77;79,Pharmacy
+student_52,18,12,Math;Physics,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,92;94;96,Engineering
+student_54,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,91;93;95,Graphic Designer
+student_55,17,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Critical thinking,Time management,79;81;83,MBBS
+student_56,18,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,88;90;92,Engineering
+student_57,17,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,93;95;97,Software Developer
+student_58,18,12,Biology;Chemistry,Reading;Swimming,Outdoor,Empathy;Attention to detail,Time management,82;84;86,Pharmacy
+student_60,18,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,91;93;95,Engineering
+student_61,17,12,Biology;Chemistry,Swimming;Volunteering,Outdoor,Empathy;Critical thinking,Time management,80;82;84,MBBS
+student_62,18,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,88;90;92,Graphic Designer
+student_63,17,12,Math;Computer Science,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,93;95;97,Software Developer
+student_64,18,12,Biology;Chemistry,Reading;Gardening,Outdoor,Attention to detail;Analytical skills,Time management,80;82;84,Pharmacy
+student_66,18,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,89;91;93,Engineering
+student_67,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,89;91;93,Graphic Designer
+student_68,18,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Attention to detail,Time management,81;83;85,MBBS
+student_69,17,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,92;94;96,Engineering
+student_71,17,12,Biology;Chemistry,Swimming;Gardening,Outdoor,Empathy;Critical thinking,Time management,81;83;85,Pharmacy
+student_72,18,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,94;96;98,Software Developer
+student_73,17,12,Physics;Math,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,93;95;97,Engineering
+student_74,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,92;94;96,Graphic Designer
+student_75,17,12,Biology;Physics,Reading;Gardening,Outdoor,Attention to detail;Analytical skills,Time management,81;83;85,MBBS
+student_76,18,12,Math;Computer Science,Reading;Programming,Indoor,Logical thinking;Problem-solving,Public speaking,90;92;94,Software Developer
+student_77,17,12,Biology;Chemistry,Gardening;Photography,Outdoor,Attention to detail;Critical thinking,Time management,77;79;81,Pharmacy
+student_78,18,12,Physics;Math,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,92;94;96,Engineering
+student_80,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,90;92;94,Graphic Designer
+student_81,17,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Critical thinking,Time management,78;80;82,MBBS
+student_82,18,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,93;95;97,Engineering
+student_83,17,12,Biology;Chemistry,Reading;Swimming,Outdoor,Empathy;Attention to detail,Time management,82;84;86,Pharmacy
+student_84,18,12,Math;Computer Science,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,94;96;98,Software Developer
+student_85,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,90;92;94,Graphic Designer
+student_87,17,12,Physics;Math,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,94;96;98,Engineering
+student_88,18,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Critical thinking,Time management,82;84;86,MBBS
+student_89,17,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,95;97;99,Software Developer
+student_90,18,12,Biology;Chemistry,Swimming;Gardening,Outdoor,Empathy;Attention to detail,Time management,83;85;87,Pharmacy
+student_92,18,12,Physics;Math,Robotics;Video games,Indoor,Problem-solving;Logical thinking,Public speaking,95;97;99,Engineering
+student_93,17,12,Art;Design,Drawing;Painting,Indoor,Creativity;Design thinking,Data analysis,91;93;95,Graphic Designer
+student_94,18,12,Biology;Chemistry,Reading;Volunteering,Outdoor,Empathy;Critical thinking,Time management,83;85;87,MBBS
+student_95,17,12,Math;Physics,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,95;97;99,Engineering
+student_97,17,12,Biology;Chemistry,Gardening;Photography,Outdoor,Attention to detail;Critical thinking,Time management,80;82;84,Pharmacy
+student_98,18,12,Math;Computer Science,Coding;Gaming,Indoor,Logical thinking;Problem-solving,Public speaking,96;98;100,Software Developer
+student_99,17,12,Physics;Math,Swimming;Chess,Indoor,Analytical skills;Strategic thinking,Public speaking,96;98;100,Engineering
+student_100,18,12,Art;Design,Drawing;Sculpting,Indoor,Creativity;Design thinking,Time management,93;95;97,Graphic Designer
